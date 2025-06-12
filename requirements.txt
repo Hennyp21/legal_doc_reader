@@ -1,0 +1,7 @@
+streamlit
+langchain==0.1.14
+PyPDF2
+openai
+faiss-cpu
+python-dotenv
+langchain-community==0.1.14
